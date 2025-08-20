@@ -1,0 +1,19 @@
+fixture_bump:
+  1: 1.12
+  2: 1.08
+  3: 1.00
+  4: 0.92
+  5: 0.86
+
+status_minutes:
+  a: 85
+  d: 60
+  i: 0
+  s: 0
+  u: 0
+
+position_bps_bias:
+  GK: 0.2
+  DEF: 0.4
+  MID: 0.6
+  FWD: 0.6

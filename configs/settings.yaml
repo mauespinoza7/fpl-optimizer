@@ -1,0 +1,5 @@
+season: 2024-2025
+data_dir: "data"
+update_times_utc: ["06:00", "18:00"]
+budget_tenths: 1000   # £100.0 x 10
+max_per_team: 3
